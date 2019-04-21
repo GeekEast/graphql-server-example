@@ -1,0 +1,3 @@
+- Schema is descriptive
+- Schema will add constraints to the fetched data.
+- Schema will filter out some unneccessary data.
