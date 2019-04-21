@@ -16,6 +16,4 @@ node index.js
 ## References:
 - [Official Guide](https://www.apollographql.com/docs/apollo-server/getting-started)
 
-- [Adding Apollo Server to an existing app](https://www.apollographql.com/docs/apollo-server/essentials/server.html#integrations)
-
 - [Schema design](https://www.apollographql.com/docs/apollo-server/essentials/schema.html)
